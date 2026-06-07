@@ -1,12 +1,12 @@
 # Hi there, I'm Ahmad 👋
 
-I am a Web3 and Blockchain Developer dedicated to building decentralized applications, managing network nodes, and exploring advanced technical infrastructures.
+I am a Web3 and Blockchain Developer dedicated to building decentralized applications, managing network nodes, and deploying custom platform scripts. Alongside my blockchain expertise, I specialize in server administration, website design, and managing advanced technical infrastructures.
 
-## 🚀 Technical Focus & Interests
+## 🚀 Technical Focus & Expertise
 - 🌐 **Web3 & Blockchain:** Smart contract deployment, token launchpads, and decentralized protocols.
-- ⚙️ **Infrastructure:** Server configuration, API integrations, and secure node operations.
-- 🤖 **AI-Assisted Development:** Leveraging advanced AI tools to streamline code architecture and server management.
-- 🛠️ **Hardware Tech:** Tinkering with 3D printing and hardware modification.
+- 🖥️ **Server Administration:** Full server management, optimization, and secure infrastructure configuration.
+- 💻 **Web Design & Scripting:** Developing responsive websites and custom platform scripts/automation.
+- ⚙️ **Infrastructure:** Node operations, API integrations, and system architecture.
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
